@@ -6,7 +6,7 @@ import numpy as np
 # --- Configuración de la Página ---
 st.set_page_config(
     page_title="Predictor de Especies de Pingüinos",
-    page_icon="🐧",
+    page_icon="❄️",
     layout="centered"
 )
 
